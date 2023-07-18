@@ -1,5 +1,5 @@
 import React from "react";
-import coverImage from "../assets/images/image_cover.png";
+import coverImage from "../assets/images/image_Cover.png";
 import image1 from "../assets/images/image_1.png";
 import image2 from "../assets/images/image_2.png";
 import image3 from "../assets/images/image_3.png";
