@@ -1,5 +1,5 @@
 import React from "react";
-import coverImage from "../assets/images/image_Cover.png";
+import main from "../assets/images/image_Cover.png";
 import image1 from "../assets/images/image_1.png";
 import image2 from "../assets/images/image_2.png";
 import image3 from "../assets/images/image_3.png";
@@ -13,16 +13,16 @@ const Home = () => {
       <div className="relative">
         <img
           className="object-cover w-full h-[500px] md:h-auto"
-          src={coverImage}
+          src={main}
           alt="home_cover_page"
         />
         <div className="absolute flex flex-col gap-4 translate-x-1/2 translate-y-1/2 bottom-1/2 right-1/2">
           <h1 className="font-semibold text-white text-7xl font-ubuntu">
             Savour real Seafood
           </h1>
-          <p className="w-full md:w-[360px] text-sm text-white">
+          <p className="w-full md:w-[360px] text-sm txt-white">
             With a deep-rooted love for all things seafood, our talented chefs
-            combine culinary expertise with creativity to craft dishes that
+            combine culinary expertise with creativitye to craft dishes that
             celebrate the ocean's treasures.
           </p>
         </div>
