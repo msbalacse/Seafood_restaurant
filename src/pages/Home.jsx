@@ -1,9 +1,9 @@
 import React from "react";
-import main from "../assets/images/image_Cover.png";
-import image1 from "../assets/images/image_1.png";
-import image2 from "../assets/images/image_2.png";
-import image3 from "../assets/images/image_3.png";
-import imageTheme from "../assets/images/image_theme.png";
+import main from "../assets/images/Image_Cover.png";
+import image1 from "../assets/images/Image_1.png";
+import image2 from "../assets/images/Image_2.png";
+import image3 from "../assets/images/Image_3.png";
+import imageTheme from "../assets/images/Image_theme.png";
 import ImageSwipper from "../components/ImageSwipper";
 
 const Home = () => {

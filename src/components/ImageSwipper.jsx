@@ -1,10 +1,10 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import Image1 from "../assets/images/galary/image_1.png";
-import Image2 from "../assets/images/galary/image_2.png";
-import Image3 from "../assets/images/galary/image_3.png";
-import Image4 from "../assets/images/galary/image_4.png";
-import Image5 from "../assets/images/galary/image_5.png";
+import Image1 from "../assets/images/galary/Image_1.png";
+import Image2 from "../assets/images/galary/Image_2.png";
+import Image3 from "../assets/images/galary/Image_3.png";
+import Image4 from "../assets/images/galary/Image_4.png";
+import Image5 from "../assets/images/galary/Image_5.png";
 
 import "swiper/css";
 import "swiper/css/pagination";
